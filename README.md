@@ -41,4 +41,4 @@ Sou PCD (deficiência auditiva). A comunicação escrita e assíncrona que já �
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/kevincosta-ai) · kevincosta-ai@outlook.com
+[LinkedIn](https://www.linkedin.com/in/KevinCostaAI) · KevinCostaAI@outlook.com
