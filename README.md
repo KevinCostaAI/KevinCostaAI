@@ -4,12 +4,6 @@ Estudante de Tecnologia em Inteligência Artificial no Senac Ceará · Analista 
 
 ---
 
-## Meus projetos
-
-Estou desenvolvendo um projeto novo, do zero. Em breve ele aparece aqui.
-
----
-
 ## Formação
 
 **Tecnologia em Inteligência Artificial** — Senac CE · 2000 h · conclusão prevista para julho de 2027
