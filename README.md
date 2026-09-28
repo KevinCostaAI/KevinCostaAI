@@ -1,4 +1,4 @@
-# Olá, eu sou o Kevin
+# Olá, eu sou o Kevin Costa
 
 Estudante de Tecnologia em Inteligência Artificial no Senac Ceará · Analista de Dados certificado · **Aberto a estágio em Dados e IA** · Fortaleza · híbrido ou remoto.
 
@@ -17,7 +17,7 @@ O Jupyter é onde me sinto mais à vontade — é ali que eu exploro e entendo o
 
 ## Disponibilidade
 
-Minhas aulas são à noite, então tenho **manhãs e tardes livres** para estágio — 30 h/semana, híbrido ou remoto.
+Minhas aulas são à noite, então tenho **manhãs e tardes livres** para estágio — 40 h/semana, híbrido ou remoto.
 
 Sou PCD (deficiência auditiva). A comunicação escrita e assíncrona que já é padrão em tecnologia funciona bem para mim, e estou aberto tanto a vagas afirmativas quanto a processos abertos.
 
